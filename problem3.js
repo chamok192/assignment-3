@@ -1,8 +1,6 @@
 /** Problem -03 ( Medicine Planner ) */
 var lastDay = 12;
 //write your code here
-
-if(lastDay >= 3 && lastDay <= 30 ){
     for (var i = 1; i <= lastDay; i++) {
         if (i % 3 === 0) {
             console.log(i + ' - medicine');
@@ -11,8 +9,3 @@ if(lastDay >= 3 && lastDay <= 30 ){
             console.log(i + ' - rest');
         }
     }
-}
-
-else{
-    console.log('Invalid.')
-}

@@ -1,5 +1,5 @@
 /** Problem -01 ( Divide the Asset ) */
-var area = 1897465868;
+var area = 2060;
 //write your code here
 var division=area/2;
 console.log(division);

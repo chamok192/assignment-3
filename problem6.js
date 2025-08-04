@@ -1,6 +1,6 @@
 /** Problem 06 :  (Current Salary )  */
-var experience = 40;
-var startingSalary = 30000;
+var experience = 3;
+var startingSalary = 15000;
 //write your code here
 
 if (experience <= 50) {
